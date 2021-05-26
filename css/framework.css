@@ -12313,14 +12313,14 @@ input[type=radio] + label:before {
 }
 
 .color-main {
-  color: #7289DA;
+  color: #f0db00;
 }
 .color-main.link:hover {
   color: #ffffff;
 }
 
 .color-heading {
-  color: #7289DA;
+  color: #f0db00;
 }
 .color-heading.link:hover {
   color: #ffffff;
@@ -12377,13 +12377,13 @@ input[type=radio] + label:before {
 
 /* background-colors */
 .bg-light {
-  background-color: #2c2f33 !important;
+  background-color: #0B0C10 !important;
 }
 .bg-dark {
-  background-color: #2c2f33 !important;
+  background-color: #0B0C10!important;
 }
 .bg-main {
-  background-color: #2e2e2e;
+  background-color: #0B0C10;
 }
 .bg-heading {
   background-color: #151515;

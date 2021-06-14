@@ -1,0 +1,15 @@
+What is FLL?
+
+FLL stands For First Lego League. There are 3 main aspects to FLL. 
+The robot game, where you program a robot using EV3 or SPIKE Prime to do tasks also know as missions around the Robot Game Map. Each Mission is worth a certain amount of points, and you haev a time limit of 2 minutes, and 30 seconds. In that time you are trying to do as many missions as possible so you can get more points. In the tournaments you get 3 rounds/oppurtunities to do it, the best of your the 3 tries is your final score.
+Project, the second main aspect of FLL, this is where all the teams try to come up with solutions for real-world problems. In each year/season there is a different problem we have to solve. In the Replay 2020/2021 season we are supposed to come up with a solution that help more people to become active and exercise. Teams usually build/make prototypes to demonstrate their soltuion to each problem, each team also has a problem statement. A problem statement is what specifically are they solving in the category of the season. For example our problem statement is motivating people to exercise and become more active, this is the problem we are specifically solving under the category of geting more people to become more active and exercise.
+Core Values, the the final aspect of FLL, in Core values teams demonstrate how they work together as a team and solve problems. There are 6 main Core Values that teams always follow and do. Discover, where we explore new ideas and skills. Innovating, we use creativty andf persistence to solve problems. Impact, where we apply what we learn to improve the world. Inclusion, we respect each other and embrace our differnces. Teamwork, we are stronger together when we work together Finally fun! We always celebrate and enjoy what we do. 
+
+About Us
+
+    About Our Team!
+        We, the Lightning Bots are a team of 9 middle schoolers from Sacramento, CA who all share a passion of coding, robotics, and healping out by solving real world problems. We have mentored several rookie teams with FLL, and are in their 5th year in robotics and their 3rd year as a team. 
+    
+    Teamwork Makes us a Better Team
+    "Never doubt that a small group of thoughtful, commited citizens can change the world." These wise words were said by Margaret Mead, and they evidently also resemble us as a team, the Lightning Bots. We know that we have their similarities and differences. However, instead of criticizing each other on it, they actually use those differences to thoureir advantage! How, you may ask. Let's say that we are just starting the season. We already know from our past experiences that so-so works great with robots. We would then assign him that section of our tasks so that their work would be of good quality. Let's say that another person was great at art. We would assign them to that section of our tasks, and yet again, we can expect a result that is of good quality. By using this tactic, the Lightning Bots have become a very successful team and have proven they have great chemistry. 
+

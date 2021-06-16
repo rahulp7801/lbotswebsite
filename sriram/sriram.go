@@ -6,5 +6,3 @@ func main() {
 	name="Sriram"
 	fmt.Printf("%v, what a legend", name)
 }
-
-main()

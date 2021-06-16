@@ -1,11 +1,10 @@
-package sriram
-
+package main
 import "fmt"
 
 func main() {
 	var name string
 	name="Sriram"
-	fmt.Println("Hello %v", name)
+	fmt.Printf("%v, what a legend", name)
 }
 
 main()

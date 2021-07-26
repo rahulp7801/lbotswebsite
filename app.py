@@ -3,14 +3,14 @@ from quart import Quart, request
 import yaml
 import discord
 import threading
+import os
 from concurrent.futures import ProcessPoolExecutor
 import asyncio
 from pymongo import MongoClient
 from xml.parsers.expat import ExpatError
 
 def startclient():
-    with open('testbot.txt', 'r') as f:
-        token = f.read()
+    token = os.environ['TOKEN']
     # loop = asyncio.new_event_loop()
     # asyncio.set_event_loop(loop)
     client.run(token)
